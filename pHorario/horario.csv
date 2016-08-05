@@ -1,0 +1,109 @@
+nombre,METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA,ciclo,2300700, hrs, 2 , bloque dia,1 ,hi, 7 ,hf, 9 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,REYES BURGOS; KARLA, id,27
+nombre,METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA,ciclo,2300700, hrs, 3 , bloque dia,2 ,hi, 7 ,hf, 10 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,REYES BURGOS; KARLA, id,27
+nombre,ARQUITECTURA DE COMPUTADORAS,ciclo,2300300, hrs, 2 , bloque dia,1 ,hi, 9 ,hf, 11 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,ARQUITECTURA DE COMPUTADORAS,ciclo,2300300, hrs, 3 , bloque dia,2 ,hi, 10 ,hf, 13 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,SISTEMAS DE CALIDAD,ciclo,2300900, hrs, 3 , bloque dia,2 ,hi, 7 ,hf, 10 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,VILCHEZ RIVAS; MARLON EUGENIO, id,31
+nombre,SISTEMAS DE CALIDAD,ciclo,2300900, hrs, 2 , bloque dia,1 ,hi, 11 ,hf, 13 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,VILCHEZ RIVAS; MARLON EUGENIO, id,31
+nombre,SEGURIDAD INFORMÁTICA,ciclo,2300900, hrs, 2 , bloque dia,4 ,hi, 7 ,hf, 9 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,SEGURIDAD INFORMÁTICA,ciclo,2300900, hrs, 2 , bloque dia,5 ,hi, 7 ,hf, 9 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,ADMINISTRACIÓN Y CONFIGURACIÓN DE SERVIDORES,ciclo,2300900, hrs, 4 , bloque dia,5 ,hi, 9 ,hf, 13 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,REDES DE COMPUTADORAS I,ciclo,2300500, hrs, 3 , bloque dia,3 ,hi, 7 ,hf, 10 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,BRAVO JAICO; JESSIE LEILA, id,7
+nombre,REDES DE COMPUTADORAS I,ciclo,2300500, hrs, 2 , bloque dia,4 ,hi, 9 ,hf, 11 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,BRAVO JAICO; JESSIE LEILA, id,7
+nombre,COSTOS Y PRESUPUESTOS,ciclo,2300500, hrs, 2 , bloque dia,1 ,hi, 11 ,hf, 13 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,RODAS DIAZ; CARLOS, id,28
+nombre,COSTOS Y PRESUPUESTOS,ciclo,2300500, hrs, 2 , bloque dia,4 ,hi, 11 ,hf, 13 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,RODAS DIAZ; CARLOS, id,28
+nombre,INGENIERÍA DE SOFTWARE,ciclo,2300700, hrs, 3 , bloque dia,3 ,hi, 7 ,hf, 10 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ALARCON GARCIA; ROGER ERNESTO, id,1
+nombre,INGENIERÍA DE SOFTWARE,ciclo,2300700, hrs, 2 , bloque dia,4 ,hi, 7 ,hf, 9 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ALARCON GARCIA; ROGER ERNESTO, id,1
+nombre,SISTEMAS DE INFORMACION EMPRESARIAL,ciclo,2300700, hrs, 3 , bloque dia,3 ,hi, 10 ,hf, 13 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,CASTILLO ZUMARAN; SEGUNDO JOSE, id,9
+nombre,SISTEMAS DE INFORMACION EMPRESARIAL,ciclo,2300700, hrs, 2 , bloque dia,4 ,hi, 9 ,hf, 11 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,CASTILLO ZUMARAN; SEGUNDO JOSE, id,9
+nombre,INTELIGENCIA ARTIFICIAL,ciclo,2300700, hrs, 2 , bloque dia,4 ,hi, 11 ,hf, 13 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,INTELIGENCIA ARTIFICIAL,ciclo,2300700, hrs, 2 , bloque dia,1 ,hi, 11 ,hf, 13 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,PROGRAMACIÓN II,ciclo,2300700, hrs, 3 , bloque dia,2 ,hi, 10 ,hf, 13 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,PROGRAMACIÓN II,ciclo,2300700, hrs, 2 , bloque dia,1 ,hi, 9 ,hf, 11 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,SEMINARIO DE TESIS I,ciclo,2300900, hrs, 3 , bloque dia,3 ,hi, 10 ,hf, 13 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,LENGUA Y COMUNICACIÓN II,ciclo,2300300, hrs, 2 , bloque dia,1 ,hi, 7 ,hf, 9 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,LLANOS CUENTAS; OLIMPIA, id,24
+nombre,LENGUA Y COMUNICACIÓN II,ciclo,2300300, hrs, 2 , bloque dia,2 ,hi, 7 ,hf, 9 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,LLANOS CUENTAS; OLIMPIA, id,24
+nombre,ORGANIZACIÓN Y MÉTODOS,ciclo,2300300, hrs, 2 , bloque dia,3 ,hi, 7 ,hf, 9 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RODAS DIAZ; CARLOS, id,28
+nombre,ORGANIZACIÓN Y MÉTODOS,ciclo,2300300, hrs, 2 , bloque dia,4 ,hi, 7 ,hf, 9 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RODAS DIAZ; CARLOS, id,28
+nombre,ESTRUCTURA DE DATOS,ciclo,2300300, hrs, 3 , bloque dia,4 ,hi, 10 ,hf, 13 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,ESTRUCTURA DE DATOS,ciclo,2300300, hrs, 2 , bloque dia,1 ,hi, 11 ,hf, 13 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,AUDITORÍA DE SISTEMAS DE INFORMACIÓN,ciclo,2301000, hrs, 2 , bloque dia,3 ,hi, 13 ,hf, 15 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,AUDITORÍA DE SISTEMAS DE INFORMACIÓN,ciclo,2301000, hrs, 3 , bloque dia,1 ,hi, 15 ,hf, 18 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,ZUÑE BISPO; LUIS AUGUSTO, id,34
+nombre,TALLER DE TECNOLOGÍAS DE INFORMACIÓN,ciclo,2301000, hrs, 4 , bloque dia,4 ,hi, 13 ,hf, 17 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,DISEÑO DE SISTEMAS,ciclo,2300500, hrs, 3 , bloque dia,5 ,hi, 7 ,hf, 10 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,DISEÑO DE SISTEMAS,ciclo,2300500, hrs, 2 , bloque dia,1 ,hi, 7 ,hf, 9 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,ADMINISTRACIÓN DE BASE DE DATOS,ciclo,2300500, hrs, 3 , bloque dia,5 ,hi, 10 ,hf, 13 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ALARCON GARCIA; ROGER ERNESTO, id,1
+nombre,ADMINISTRACIÓN DE BASE DE DATOS,ciclo,2300500, hrs, 2 , bloque dia,1 ,hi, 9 ,hf, 11 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ALARCON GARCIA; ROGER ERNESTO, id,1
+nombre,DINÁMICA DE SISTEMAS,ciclo,2300500, hrs, 2 , bloque dia,2 ,hi, 7 ,hf, 9 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,DINÁMICA DE SISTEMAS,ciclo,2300500, hrs, 2 , bloque dia,4 ,hi, 7 ,hf, 9 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,METODOLOGÍAS DE PROGRAMACIÓN-B,ciclo,2300200, hrs, 2 , bloque dia,1 ,hi, 15 ,hf, 17 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZELADA VALDIVIESO; HECTOR MIGUEL, id,32
+nombre,METODOLOGÍAS DE PROGRAMACIÓN-B,ciclo,2300200, hrs, 3 , bloque dia,2 ,hi, 15 ,hf, 18 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZELADA VALDIVIESO; HECTOR MIGUEL, id,32
+nombre,METODOLOGÍAS DE PROGRAMACIÓN,ciclo,2300200, hrs, 3 , bloque dia,3 ,hi, 15 ,hf, 18 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZELADA VALDIVIESO; HECTOR MIGUEL, id,32
+nombre,METODOLOGÍAS DE PROGRAMACIÓN,ciclo,2300200, hrs, 2 , bloque dia,1 ,hi, 17 ,hf, 19 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,ZELADA VALDIVIESO; HECTOR MIGUEL, id,32
+nombre,BASE DE DATOS AVANZADA,ciclo,2300600, hrs, 2 , bloque dia,1 ,hi, 13 ,hf, 15 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,CASTILLO ZUMARAN; SEGUNDO JOSE, id,9
+nombre,BASE DE DATOS AVANZADA,ciclo,2300600, hrs, 3 , bloque dia,5 ,hi, 13 ,hf, 16 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,CASTILLO ZUMARAN; SEGUNDO JOSE, id,9
+nombre,OPERACIONES,ciclo,2300600, hrs, 2 , bloque dia,1 ,hi, 17 ,hf, 19 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,TORRES BENAVIDES; JUAN ANTONIO, id,30
+nombre,OPERACIONES,ciclo,2300600, hrs, 2 , bloque dia,2 ,hi, 13 ,hf, 15 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,TORRES BENAVIDES; JUAN ANTONIO, id,30
+nombre,ESTADISTICA APLICADA,ciclo,2300600, hrs, 3 , bloque dia,5 ,hi, 16 ,hf, 19 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,LOAIZA CHUMACERO; SANDRA, id,19
+nombre,ESTADISTICA APLICADA,ciclo,2300600, hrs, 2 , bloque dia,3 ,hi, 13 ,hf, 15 , aula id, 3 ,tipo, 40 ,desc,lab 105,profesor,LOAIZA CHUMACERO; SANDRA, id,19
+nombre,REDES DE COMPUTADORAS II,ciclo,2300600, hrs, 2 , bloque dia,3 ,hi, 15 ,hf, 17 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,LEON TENORIO; GREGORIO MANUEL, id,18
+nombre,REDES DE COMPUTADORAS II,ciclo,2300600, hrs, 3 , bloque dia,2 ,hi, 15 ,hf, 18 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,LEON TENORIO; GREGORIO MANUEL, id,18
+nombre,PROGRAMACIÓN I,ciclo,2300600, hrs, 3 , bloque dia,4 ,hi, 13 ,hf, 16 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,PROGRAMACIÓN I,ciclo,2300600, hrs, 2 , bloque dia,1 ,hi, 15 ,hf, 17 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,INGENIERIA DE PROCESOS,ciclo,2300600, hrs, 2 , bloque dia,3 ,hi, 17 ,hf, 19 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,RODAS DIAZ; CARLOS, id,28
+nombre,INGENIERIA DE PROCESOS,ciclo,2300600, hrs, 2 , bloque dia,4 ,hi, 17 ,hf, 19 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,RODAS DIAZ; CARLOS, id,28
+nombre,PLANEAMIENTO ESTRATÉGICO DE SISTEMAS DE INFORMACIÓN,ciclo,2300900, hrs, 3 , bloque dia,1 ,hi, 7 ,hf, 10 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,PLANEAMIENTO ESTRATÉGICO DE SISTEMAS DE INFORMACIÓN,ciclo,2300900, hrs, 2 , bloque dia,3 ,hi, 7 ,hf, 9 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,DIRECCIÓN DE PERSONAS,ciclo,2300900, hrs, 2 , bloque dia,4 ,hi, 9 ,hf, 11 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RODAS DIAZ; CARLOS, id,28
+nombre,DIRECCIÓN DE PERSONAS,ciclo,2300900, hrs, 2 , bloque dia,2 ,hi, 11 ,hf, 13 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RODAS DIAZ; CARLOS, id,28
+nombre,DEONTOLOGÍA,ciclo,2301000, hrs, 3 , bloque dia,2 ,hi, 13 ,hf, 16 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,VILCHEZ RIVAS; MARLON EUGENIO, id,31
+nombre,ALTA DIRECCIÓN,ciclo,2301000, hrs, 2 , bloque dia,3 ,hi, 15 ,hf, 17 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RUIDIAS SEMINARIO; ROBERTO, id,29
+nombre,ALTA DIRECCIÓN,ciclo,2301000, hrs, 2 , bloque dia,5 ,hi, 15 ,hf, 17 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,RUIDIAS SEMINARIO; ROBERTO, id,29
+nombre,GESTIÓN DE PROYECTOS DE SISTEMAS DE INFORMACIÓN,ciclo,2301000, hrs, 3 , bloque dia,2 ,hi, 16 ,hf, 19 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,JACINTO MEJIA; PEDRO MIGUEL, id,17
+nombre,GESTIÓN DE PROYECTOS DE SISTEMAS DE INFORMACIÓN,ciclo,2301000, hrs, 2 , bloque dia,1 ,hi, 13 ,hf, 15 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,JACINTO MEJIA; PEDRO MIGUEL, id,17
+nombre,SEMINARIO DE TESIS II,ciclo,2301000, hrs, 3 , bloque dia,3 ,hi, 17 ,hf, 20 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,ADMINISTRACIÓN DE TECNOLOGÍAS DE INFORMACIÓN,ciclo,2301000, hrs, 2 , bloque dia,5 ,hi, 13 ,hf, 15 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,JACINTO MEJIA; PEDRO MIGUEL, id,17
+nombre,ADMINISTRACIÓN DE TECNOLOGÍAS DE INFORMACIÓN,ciclo,2301000, hrs, 2 , bloque dia,4 ,hi, 17 ,hf, 19 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,JACINTO MEJIA; PEDRO MIGUEL, id,17
+nombre,MATEMÁTICA DISCRETA II,ciclo,2300300, hrs, 2 , bloque dia,3 ,hi, 9 ,hf, 11 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,GONZALES LOPEZ; DAVID, id,14
+nombre,MATEMÁTICA DISCRETA II,ciclo,2300300, hrs, 3 , bloque dia,5 ,hi, 7 ,hf, 10 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,GONZALES LOPEZ; DAVID, id,14
+nombre,PROYECTO DE TESIS,ciclo,2300800, hrs, 3 , bloque dia,5 ,hi, 14 ,hf, 17 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,AQUINO TRUJILLO; JURY YESENIA, id,3
+nombre,SISTEMAS DISTRIBUIDOS,ciclo,2300800, hrs, 2 , bloque dia,5 ,hi, 17 ,hf, 19 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,SISTEMAS DISTRIBUIDOS,ciclo,2300800, hrs, 3 , bloque dia,3 ,hi, 13 ,hf, 16 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,DIRECCION COMERCIAL Y FINANCIERA,ciclo,2300800, hrs, 2 , bloque dia,1 ,hi, 15 ,hf, 17 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,BRAVO JAICO; JESSIE LEILA, id,7
+nombre,DIRECCION COMERCIAL Y FINANCIERA,ciclo,2300800, hrs, 2 , bloque dia,2 ,hi, 15 ,hf, 17 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,BRAVO JAICO; JESSIE LEILA, id,7
+nombre,PROGRAMACION III,ciclo,2300800, hrs, 3 , bloque dia,4 ,hi, 16 ,hf, 19 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,PROGRAMACION III,ciclo,2300800, hrs, 2 , bloque dia,3 ,hi, 16 ,hf, 18 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,MERA MONTENEGRO; HUILDER JUANITO, id,21
+nombre,ADMINISTRACIÓN DE REDES DE COMUNICACIÓN DE DATOS,ciclo,2300800, hrs, 2 , bloque dia,1 ,hi, 13 ,hf, 15 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,ADMINISTRACIÓN DE REDES DE COMUNICACIÓN DE DATOS,ciclo,2300800, hrs, 2 , bloque dia,2 ,hi, 13 ,hf, 15 , aula id, 6 ,tipo, 50 ,desc,lab redes,profesor,IMAN ESPINOZA; RICARDO DAVID, id,16
+nombre,COMPUTACIÓN GRÁFICA,ciclo,2300800, hrs, 2 , bloque dia,1 ,hi, 17 ,hf, 19 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,COMPUTACIÓN GRÁFICA,ciclo,2300800, hrs, 2 , bloque dia,4 ,hi, 14 ,hf, 16 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,MATEMÁTICA DISCRETA I,ciclo,2300200, hrs, 2 , bloque dia,1 ,hi, 13 ,hf, 15 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,GONZALES LOPEZ; DAVID, id,14
+nombre,MATEMÁTICA DISCRETA I,ciclo,2300200, hrs, 3 , bloque dia,4 ,hi, 13 ,hf, 16 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,GONZALES LOPEZ; DAVID, id,14
+nombre,LENGUA Y COMUNICACIÓN I,ciclo,2300200, hrs, 2 , bloque dia,2 ,hi, 13 ,hf, 15 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,LLANOS CUENTAS; OLIMPIA, id,24
+nombre,LENGUA Y COMUNICACIÓN I,ciclo,2300200, hrs, 2 , bloque dia,3 ,hi, 13 ,hf, 15 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,LLANOS CUENTAS; OLIMPIA, id,24
+nombre,ANÁLISIS MATEMÁTICO II,ciclo,2300200, hrs, 3 , bloque dia,5 ,hi, 13 ,hf, 16 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,HANANEL BAIGORRIA; ALBERTO, id,15
+nombre,ANÁLISIS MATEMÁTICO II,ciclo,2300200, hrs, 2 , bloque dia,4 ,hi, 16 ,hf, 18 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,HANANEL BAIGORRIA; ALBERTO, id,15
+nombre,FÍSICA II,ciclo,2300200, hrs, 3 , bloque dia,5 ,hi, 16 ,hf, 19 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,ZULOAGA CACHAY; JOSE FORTUNATO, id,33
+nombre,FÍSICA II,ciclo,2300200, hrs, 2 , bloque dia,4 ,hi, 18 ,hf, 20 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,ZULOAGA CACHAY; JOSE FORTUNATO, id,33
+nombre,INGENIERÍA ECONÓMICA,ciclo,2300400, hrs, 2 , bloque dia,3 ,hi, 15 ,hf, 17 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CHIRINOS MUNDACA; CARLOS ALBERTO, id,13
+nombre,INGENIERÍA ECONÓMICA,ciclo,2300400, hrs, 2 , bloque dia,1 ,hi, 17 ,hf, 19 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CHIRINOS MUNDACA; CARLOS ALBERTO, id,13
+nombre,ANÁLISIS DE SISTEMAS,ciclo,2300400, hrs, 3 , bloque dia,5 ,hi, 13 ,hf, 16 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,ANÁLISIS DE SISTEMAS,ciclo,2300400, hrs, 2 , bloque dia,3 ,hi, 17 ,hf, 19 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,DEL CASTILLO CASTRO; CONSUELO IVONNE, id,12
+nombre,TEORÍA GENERAL DE SISTEMAS-B,ciclo,2300400, hrs, 2 , bloque dia,1 ,hi, 13 ,hf, 15 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,TEORÍA GENERAL DE SISTEMAS-B,ciclo,2300400, hrs, 2 , bloque dia,2 ,hi, 16 ,hf, 18 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,SISTEMAS OPERATIVOS,ciclo,2300400, hrs, 2 , bloque dia,3 ,hi, 13 ,hf, 15 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,REYES BURGOS; KARLA, id,27
+nombre,SISTEMAS OPERATIVOS,ciclo,2300400, hrs, 3 , bloque dia,2 ,hi, 13 ,hf, 16 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,REYES BURGOS; KARLA, id,27
+nombre,BASE DE DATOS,ciclo,2300400, hrs, 3 , bloque dia,4 ,hi, 16 ,hf, 19 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,TORRES BENAVIDES; JUAN ANTONIO, id,30
+nombre,BASE DE DATOS,ciclo,2300400, hrs, 2 , bloque dia,5 ,hi, 17 ,hf, 19 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,TORRES BENAVIDES; JUAN ANTONIO, id,30
+nombre,TEORÍA GENERAL DE SISTEMAS,ciclo,2300400, hrs, 2 , bloque dia,1 ,hi, 15 ,hf, 17 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,TEORÍA GENERAL DE SISTEMAS,ciclo,2300400, hrs, 2 , bloque dia,4 ,hi, 13 ,hf, 15 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,ARANGURI GARCIA; MARIA YSABEL, id,4
+nombre,FÍSICA I,ciclo,2300100, hrs, 2 , bloque dia,3 ,hi, 11 ,hf, 13 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CUMPA BARRIOS; EDWIN ALDRIN, id,11
+nombre,FÍSICA I,ciclo,2300100, hrs, 3 , bloque dia,1 ,hi, 10 ,hf, 13 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CUMPA BARRIOS; EDWIN ALDRIN, id,11
+nombre,MATEMÁTICA BÁSICA,ciclo,2300100, hrs, 2 , bloque dia,2 ,hi, 7 ,hf, 9 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,NOBLECILLA VINCES; WILLIAM, id,23
+nombre,MATEMÁTICA BÁSICA,ciclo,2300100, hrs, 3 , bloque dia,5 ,hi, 10 ,hf, 13 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,NOBLECILLA VINCES; WILLIAM, id,23
+nombre,FUNDAMENTOS DE PROGRAMACIÓN,ciclo,2300100, hrs, 3 , bloque dia,3 ,hi, 7 ,hf, 10 , aula id, 4 ,tipo, 45 ,desc,lab 417,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,FUNDAMENTOS DE PROGRAMACIÓN,ciclo,2300100, hrs, 2 , bloque dia,1 ,hi, 7 ,hf, 9 , aula id, 5 ,tipo, 45 ,desc,lab 418,profesor,ALONSO PEREZ; EDUARDO FRANCISCO, id,2
+nombre,METODOLOGÍA DEL TRABAJO INTELECTUAL,ciclo,2300100, hrs, 3 , bloque dia,4 ,hi, 7 ,hf, 10 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CHUNGA CHINGUEL; GERARDO, id,10
+nombre,METODOLOGÍA DEL TRABAJO INTELECTUAL,ciclo,2300100, hrs, 2 , bloque dia,2 ,hi, 9 ,hf, 11 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,CHUNGA CHINGUEL; GERARDO, id,10
+nombre,ANÁLISIS MATEMÁTICO I,ciclo,2300100, hrs, 3 , bloque dia,4 ,hi, 10 ,hf, 13 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,MORENO DESCALZI; JULIO, id,22
+nombre,ANÁLISIS MATEMÁTICO I,ciclo,2300100, hrs, 2 , bloque dia,2 ,hi, 11 ,hf, 13 , aula id, 1 ,tipo, 10 ,desc,Aula 1 (grande 38),profesor,MORENO DESCALZI; JULIO, id,22
+nombre,INTRODUCCION A LA INGENIERIA DE SISTEMAS,ciclo,2300100, hrs, 3 , bloque dia,5 ,hi, 7 ,hf, 10 , aula id, 2 ,tipo, 11 ,desc,Aula 2 (peq 24),profesor,REYES BURGOS; KARLA, id,27
